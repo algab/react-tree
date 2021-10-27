@@ -1,0 +1,96 @@
+.rc-tree {
+  margin: 0;
+  border: 1px solid transparent;
+  width: 100%;
+}
+.rc-tree .rc-tree-treenode {
+  margin: 0;
+  padding: 0;
+  line-height: 24px;
+  white-space: nowrap;
+  list-style: none;
+  outline: 0;
+  width: 100%;
+}
+.rc-tree .rc-tree-treenode ul {
+  margin: 0;
+  padding: 0 0 0 18px;
+}
+.rc-tree-treenode-disabled {
+  opacity: 0.3;
+}
+.rc-tree .rc-tree-treenode .rc-tree-node-content-wrapper {
+  display: inline-block;
+  height: 24px;
+  margin: 0;
+  padding: 5px 0px 5px 0px;
+  text-decoration: none;
+  vertical-align: top;
+}
+.rc-tree .rc-tree-treenode span.rc-tree-switcher {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  vertical-align: -0.3em;
+  border: 0 none;
+  outline: none;
+}
+.rc-tree .rc-tree-treenode span.rc-tree-switcher.rc-tree-switcher-noop {
+  width: 16px;
+  height: 16px;  
+}
+.rc-tree-child-tree {
+  display: none;
+}
+.rc-tree-child-tree-open {
+  display: block;
+}
+.rc-tree-icon__open {
+  margin-right: 2px;
+  vertical-align: top;
+  background-position: -110px -16px;
+}
+.rc-tree-icon__close {
+  margin-right: 2px;
+  vertical-align: top;
+  background-position: -110px 0;
+}
+.rc-tree-icon__docu {
+  margin-right: 2px;
+  vertical-align: top;
+  background-position: -110px -32px;
+}
+.rc-tree-icon__customize {
+  margin: 0px 5px;
+  vertical-align: top;
+}
+.rc-tree-title {
+  display: inline-block;
+  font-weight: bold;
+  color: #241B5F;
+  margin-left: 8px;
+}
+.rc-tree-indent {
+  align-self: stretch;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.rc-tree-indent-unit {
+  position: relative;
+  height: 100%;
+  width: 10px;
+  display: inline-block;
+  margin-right: 16px;
+}
+.rc-tree-indent-unit::before {
+  position: absolute;
+  top: -23px;
+  right: 1px;
+  bottom: -12px;
+  border-right: 2px solid #E1008F;
+  content: '';
+}

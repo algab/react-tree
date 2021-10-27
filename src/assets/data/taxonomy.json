@@ -1,0 +1,351 @@
+[
+  {
+    "key": "Cat000001",
+    "title": "Alimentos e Bebidas",
+    "status": "Ativo",
+    "children": [
+      {
+        "key": "Cat000007",
+        "title": "Cafés"
+      },
+      {
+        "key": "Cat000008",
+        "title": "Doces"
+      },
+      {
+        "key": "Cat000009",
+        "title": "Vinhos e Espumantes"
+      },
+      {
+        "key": "Cat000010",
+        "title": "Destilados"
+      },
+      {
+        "key": "Cat000011",
+        "title": "Cervejas"
+      }
+    ]
+  },
+  {
+    "key": "Cat000002",
+    "title": "Automotivo",
+    "status": "Inativo",
+    "children": [
+      {
+        "key": "Cat000012",
+        "title": "Acessórios e peças para carro",
+        "status": "Novo"
+      },
+      {
+        "key": "Cat000013",
+        "title": "Capacetes e acessórios para moto"
+      },
+      {
+        "key": "Cat000014",
+        "title": "Pneus",
+        "status": "Novo"
+      },
+      {
+        "key": "Cat000015",
+        "title": "Som automotivo"
+      }
+    ]
+  },
+  {
+    "key": "Cat000003",
+    "title": "Esporte e Lazer",
+    "status": "Novo",
+    "children": [
+      {
+        "key": "Cat000016",
+        "title": "Camping e aventura",
+        "children": [
+          {
+            "key": "Cat000017",
+            "title": "Acessórios e equipamentos"
+          },
+          {
+            "key": "Cat000018",
+            "title": "Barracas"
+          },
+          {
+            "key": "Cat000019",
+            "title": "Colchôes infláveis  e colchonetes"
+          },
+          {
+            "key": "Cat000020",
+            "title": "Lanternas"
+          },
+          {
+            "key": "Cat000021",
+            "title": "Mochilas camping"
+          },
+          {
+            "key": "Cat000022",
+            "title": "Sacos de dormir"
+          }
+        ]
+      },
+      {
+        "key": "Cat000023",
+        "title": "Esportes aquáticos",
+        "children": [
+          {
+            "key": "Cat000024",
+            "title": "Mergulho"
+          },
+          {
+            "key": "Cat000025",
+            "title": "Natação"
+          },
+          {
+            "key": "Cat000026",
+            "title": "Surf"
+          }
+        ]
+      },
+      {
+        "key": "Cat000027",
+        "title": "Esportes com bola",
+        "children": [
+          {
+            "key": "Cat000028",
+            "title": "Basquete"
+          },
+          {
+            "key": "Cat000029",
+            "title": "Frescobol"
+          },
+          {
+            "key": "Cat000030",
+            "title": "Futebol"
+          },
+          {
+            "key": "Cat000031",
+            "title": "Futebol Americano"
+          },
+          {
+            "key": "Cat000032",
+            "title": "Handbol"
+          },
+          {
+            "key": "Cat000033",
+            "title": "Rugby"
+          }
+        ]
+      },
+      {
+        "key": "Cat000034",
+        "title": "Esportes de raquetes",
+        "children": [
+          {
+            "key": "Cat000035",
+            "title": "Tênis"
+          },
+          {
+            "key": "Cat000036",
+            "title": "Tênis de mesa"
+          }
+        ]
+      },
+      {
+        "key": "Cat000037",
+        "title": "Esportes radicais",
+        "children": [
+          {
+            "key": "Cat000038",
+            "title": "Bike"
+          },
+          {
+            "key": "Cat000039",
+            "title": "Motociclismo"
+          },
+          {
+            "key": "Cat000040",
+            "title": "Patins e patinetes"
+          },
+          {
+            "key": "Cat000041",
+            "title": "Skate"
+          },
+          {
+            "key": "Cat000042",
+            "title": "Slackline"
+          },
+          {
+            "key": "Cat000043",
+            "title": "Tiro esportivo"
+          }
+        ]
+      },
+      {
+        "key": "Cat000044",
+        "title": "Jogos de Tabuleiro",
+        "children": [
+          {
+            "key": "Cat000045",
+            "title": "Futebol de botão"
+          },
+          {
+            "key": "Cat000046",
+            "title": "Pebolim / Totó"
+          }
+        ]
+      },
+      {
+        "key": "Cat000047",
+        "title": "Malas e Mochilas"
+      },
+      {
+        "key": "Cat000048",
+        "title": "Piscina e Praia"
+      }
+    ]
+  },
+  {
+    "key": "Cat000049",
+    "title": "Casa",
+    "children": [
+      {
+        "key": "Cat000050",
+        "title": "Adega"
+      },
+      {
+        "key": "Cat000051",
+        "title": "Cama, mesa e banho",
+        "children": [
+          {
+            "key": "Cat000052",
+            "title": "Banho"
+          },
+          {
+            "key": "Cat000053",
+            "title": "Cama"
+          },
+          {
+            "key": "Cat000054",
+            "title": "Cortinas"
+          },
+          {
+            "key": "Cat000055",
+            "title": "Mesa"
+          },
+          {
+            "key": "Cat000056",
+            "title": "Tapete"
+          },
+          {
+            "key": "Cat000100",
+            "title": "Mesa, Cama e Banho"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Cat000057",
+    "title": "Infantil",
+    "children": [
+      {
+        "key": "Cat000058",
+        "title": "Artigo para bebês",
+        "children": [
+          {
+            "key": "Cat000059",
+            "title": "Alimentação"
+          },
+          {
+            "key": "Cat000060",
+            "title": "Banho e Higiene em geral"
+          }
+        ]
+      },
+      {
+        "key": "Cat000061",
+        "title": "Brinquedos",
+        "children": [
+          {
+            "key": "Cat000062",
+            "title": "Aviões e helicópteros"
+          },
+          {
+            "key": "Cat000063",
+            "title": "Bonecas, bonecos e pelúcias"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Cat000064",
+    "title": "Moda",
+    "children": [
+      {
+        "key": "Cat000065",
+        "title": "Acessórios",
+        "children": [
+          {
+            "key": "Cat000066",
+            "title": "Bolsas"
+          },
+          {
+            "key": "Cat000067",
+            "title": "Carteiras"
+          },
+          {
+            "key": "Cat000068",
+            "title": "Cintos"
+          },
+          {
+            "key": "Cat000069",
+            "title": "Gorros, Chapéus e Bonés"
+          },
+          {
+            "key": "Cat000070",
+            "title": "Jóias e Bijuterias"
+          },
+          {
+            "key": "Cat000071",
+            "title": "Necessaires"
+          }
+        ]
+      },
+      {
+        "key": "Cat000072",
+        "title": "Calçados",
+        "children": [
+          {
+            "key": "Cat000073",
+            "title": "Ankle Boot"
+          },
+          {
+            "key": "Cat000074",
+            "title": "Botas"
+          },
+          {
+            "key": "Cat000075",
+            "title": "Crocs Clássico"
+          },
+          {
+            "key": "Cat000076",
+            "title": "Chinelos"
+          },
+          {
+            "key": "Cat000077",
+            "title": "Teste 1",
+            "children": [
+              {
+                "key": "Cat000078",
+                "title": "Teste 2"
+              },
+              {
+                "key": "Cat000079",
+                "title": "Teste 3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

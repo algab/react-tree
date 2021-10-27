@@ -1,0 +1,29 @@
+.tree-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  div span {
+    cursor: pointer;
+  }
+  div p {
+    display: inline-block;
+    margin: 0px;
+    margin-left: 20px;
+    padding-left: 7px;
+    padding-right: 7px;
+    background-color: #241B5F;
+    color: white;
+    border-radius: 10px;
+    font-size: 12px;
+  }
+}
+
+.tree-title-icon {
+  cursor: pointer;
+  position: absolute;
+  right: 1em;
+}
+
+.tree-title-search {
+  color: #28AAB9;
+}
